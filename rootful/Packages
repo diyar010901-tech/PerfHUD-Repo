@@ -1,0 +1,15 @@
+Package: com.alphaxk.perfhud
+Name: PerfHUD
+Description: Lightweight in-game performance HUD
+Maintainer: AlphaXK
+Author: AlphaXK
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0.3-1+debug
+Installed-Size: 220
+Filename: ./com.alphaxk.perfhud_1.0.3-1+debug_iphoneos-arm64.deb
+Size: 148674
+MD5sum: fe038195b0febdb35ce5af8e528ad3e1
+SHA1: 4e939eb095d4dc57424e7bfbfd4fc2a09fb91b1b
+SHA256: 54f737be50ab4700e0c12a2c0ec0982e54e9572ba289efa5fe5dcb16833eafd0
