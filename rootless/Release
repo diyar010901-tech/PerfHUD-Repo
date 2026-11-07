@@ -1,0 +1,8 @@
+Origin: AlphaXK
+Label: PerfHUD Rootless
+Suite: stable
+Version: 1.0
+Codename: rootless
+Architectures: iphoneos-arm64
+Components: main
+Description: PerfHUD jailbreak tweak repository for rootless jailbreaks
